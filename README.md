@@ -59,16 +59,15 @@ of net sales 161.3 M and 87.8 M respectively.
 + Revising targets based on realistic and achievable metric, can help in setting more practical goals
 
 
-'''
 >> By addressing these recommendations, the business can take better decisions to optimize their market performance in various countries.
 
 
-## ⚠️ Disclaimer 
+## Thanks for Reading
 
-If you find this useful, Do not forget give 
+If you find this useful, Do not forget give a ❤️
 
 
 ## Links 
-+ [Presentaion Link] (https://www.linkedin.com/posts/himasprabhs_atliqs-sales-and-finance-reports-ugcPost-7268232390639009793-IMjp/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB1vFu8BovHVB81NWf1xic3xorF5sS_24so)
++ __ [Presentaion Link] (https://www.linkedin.com/posts/himasprabhs_atliqs-sales-and-finance-reports-ugcPost-7268232390639009793-IMjp/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB1vFu8BovHVB81NWf1xic3xorF5sS_24so)__ 
 
 
