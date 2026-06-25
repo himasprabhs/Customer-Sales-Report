@@ -1,4 +1,4 @@
-# Project : Customer Sales Report
+# Customer Sales Report
 
 
 ## 💼 About
