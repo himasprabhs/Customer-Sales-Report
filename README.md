@@ -43,13 +43,6 @@ Customer Performance Report
 
 
 
-## 😐 follow up
-
-+ 
-
-  
-
-
 ## ⚠️ Disclaimer 
 
 If you find this useful, Do not forget give some credit
@@ -57,5 +50,5 @@ If you find this useful, Do not forget give some credit
 
 ## Essential Links 
 + LinkedIn Post:
-+ Video:
-+ Dashboard:
+
+
