@@ -73,6 +73,6 @@ If you find this useful, Do not forget give a ❤️
 
 ## Links 
 + [Presentaion Link](https://www.linkedin.com/posts/himasprabhs_atliqs-sales-and-finance-reports-ugcPost-7268232390639009793-IMjp/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB1vFu8BovHVB81NWf1xic3xorF5sS_24so)
-+ ![Minion](https://octodex.github.com/images/minion.png)
+
 
 
