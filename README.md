@@ -16,7 +16,7 @@ to make better decisions, do customized offering, and become profitable to stay 
 
 ## 📁 Data Sources
 
-+ pack: three CSV files
++ pack: Four CSV files
   * dim_customer.csv
   * dim_market.csv
   * dim_product.csv
