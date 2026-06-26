@@ -66,9 +66,9 @@ of net sales 161.3 M and 87.8 M respectively**.
 >> By addressing these recommendations, the business can take better decisions to optimize their market performance in various countries.
 
 
-## Thanks for Reading
+## Thanks for Reading 💙
 
-If you find this useful, Do not forget give a ❤️
+Thank you for checking out my project! If it helped you, don't forget to drop a ⭐ to show your support.
 
 
 ## Links 
