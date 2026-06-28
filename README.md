@@ -2,7 +2,6 @@
 
 
 ## 💼 About
-- Domain: FMCG
 - Function: Sales
 
 
